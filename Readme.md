@@ -237,19 +237,7 @@ For support:
 - Documentation: `/docs`
 - GitHub: [@Alpha-Mintamir](https://github.com/Alpha-Mintamir)
 
-## 🙏 Acknowledgments
 
-- University IT Department
-- Contributing developers
-- Testing team
-- User feedback
-
-## 📈 Version History
-
-- v1.0.0: Initial release
-- v1.1.0: Added geofencing
-- v1.2.0: Enhanced reporting
-- v1.3.0: WiFi verification
 
 ## 🌐 Links
 
